@@ -7,4 +7,4 @@ print("The type of variable having value", b, " is ", type(b))
 
 #create a variable with complex value.
 c=100+3j
-print("The type of variable having value", c, " is ", type(c))
+print("The type of variable having value", c, " is ", type(c)) #output

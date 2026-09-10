@@ -1,7 +1,7 @@
 is_lulus = True
 is_cumlaude = True
 
-# Menggunakan Boolean
+# Menggunakan Booleann
 nilai = 85
 batas_lulus = 75
 
@@ -13,4 +13,5 @@ print("Nilai:", nilai)
 print("Apakah Lulus?:", status_kelulusan)
 if is_lulus and is_cumlaude:
     print("Selamat, Anda lulus dengan predikat Cumlaude!")
-    
+
+
